@@ -1,5 +1,12 @@
 # regtest-bitcoind-cluster
 
+
+## Running
+```bash
+docker run -p 18444:18444 -p 18443:18443 --rm bitcoinpaygate/regtest-bitcoind-cluster:master
+```
+
+
 ### Building
 
 Build docker image:
