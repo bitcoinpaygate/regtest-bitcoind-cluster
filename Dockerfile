@@ -1,4 +1,4 @@
-FROM ruimarinho/bitcoin-core:0.16.3
+FROM ruimarinho/bitcoin-core:0.17.1
 
 EXPOSE 18443
 EXPOSE 18444
