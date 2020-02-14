@@ -2,8 +2,17 @@
 
 
 ## Running
+
+Supported versions are:
+```
+0.16.3
+0.17.1
+0.18.1
+0.19.0.1
+```
+
 ```bash
-docker run -p 18444:18444 -p 18443:18443 --rm bitcoinpaygate/regtest-bitcoind-cluster:master
+docker run -p 18444:18444 -p 18443:18443 --rm bitcoinpaygate/regtest-bitcoind-cluster:VERSION
 ```
 
 
