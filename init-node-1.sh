@@ -3,7 +3,7 @@ set -exm
 
 export RPC_PORT=18444
 export PORT=8444
-export NODE_NAME="node_txindex"
+export NODE_NAME="node_1"
 
 mkdir $NODE_NAME
 
